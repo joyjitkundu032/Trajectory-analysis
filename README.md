@@ -3,7 +3,7 @@ Sample scripts to generate structure files to initiate MD simulations and analyz
 
 Outputs-- box volume, dihedral angles, the Ramachandran plot, histograms of differebr relevant distances, simulated xrd.
 
-Publications: 
+Relevant Publications: 
 
 "Effect of processing and end groups on the crystal structure of polypeptoids studied by cryogenic electron microscopy at atomic length scales", Xi Jiang, Sunting Xuan, **Joyjit Kundu**, David Prendergast, Ronald N Zuckermann, Nitash P Balsara, **Soft matter** 15, 4723-4736 (2019).
 
