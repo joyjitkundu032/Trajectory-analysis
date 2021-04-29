@@ -1,5 +1,5 @@
 # Trajectory-analysis
-Sample scripts to generate structure files to initiate MD simulations and analyze the time-series data of peptoid nanosheet and nanocrystal
+Sample scripts to generate structure files to initiate MD simulations, analyze the time-series data of peptoid nanosheet and nanocrystal, and plot.
 
 Outputs-- box volume, dihedral angles, the Ramachandran plot, histograms of differebr relevant distances, simulated xrd.
 
